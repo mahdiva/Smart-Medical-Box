@@ -1,0 +1,41 @@
+body {
+  background-color: #ecf0f1;
+}
+
+.App {
+  text-align: center;
+  width: 50%;
+  margin: 40px auto;
+}
+
+.App > h3 {
+  margin-bottom: 50px;
+}
+
+form {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+form label {
+  display: block;
+}
+
+.input-container {
+  width: 300px;
+  margin: 35px auto;
+}
+
+.text-in {
+  width: 100%;
+  display: block;
+}
+
+.timePicker {
+  width: 100%;
+}
+
+.input-checkbox {
+  width: 50%;
+  margin-bottom: -10px;
+}
